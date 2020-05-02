@@ -2,7 +2,7 @@
   "name": "plugin-sloc",
   "version": "0.0.0",
   "description": "SLOC rules for `projectlint`",
-  "main": "index.js",
+  "main": "lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
