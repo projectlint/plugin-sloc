@@ -1,0 +1,23 @@
+{
+  "name": "plugin-sloc",
+  "version": "0.0.0",
+  "description": "SLOC rules for `projectlint`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectlint/plugin-sloc.git"
+  },
+  "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projectlint/plugin-sloc/issues"
+  },
+  "homepage": "https://github.com/projectlint/plugin-sloc#readme",
+  "dependencies": {
+    "node-sloc": "^0.1.12",
+    "require-directory": "^2.1.1"
+  }
+}
